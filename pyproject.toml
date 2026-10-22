@@ -7,6 +7,7 @@ name = "patchfill"
 version = "0.1.0"
 description = "Patch-based dataset building and gap filling for Earth System Data Cubes"
 requires-python = ">=3.11"
+license = {text = "Apache-2.0"}
 dependencies = [
   "numpy",
   "xarray",
